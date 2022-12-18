@@ -5,5 +5,10 @@
 - Comando deploymnt:
 ```
 kubectl deployment -f secreto/secreto.yaml
+```
 
+2. creacion de la BBDD MYSQL
+- Comando deployment
+```
+kubectl deployment -f mysql/mysql.yaml
 ```
